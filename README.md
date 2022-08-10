@@ -1,3 +1,7 @@
+This is a ReactJS app for creating users and business cards.
+
+Use this Repo with the "card-api" Back-End Repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
